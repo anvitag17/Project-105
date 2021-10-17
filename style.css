@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&family=Nerko+One&family=Syncopate&family=Viaoda+Libre&display=swap');
+
+body{
+    text-align: center;
+    color: cornflowerblue;
+    background-color: azure;
+    font-family: 'Viaoda Libre', cursive;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+#camera{
+    border: 2px dashed black;
+    width: 500px;
+    height: 400px;
+    
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: cadetblue;
+    font-family: 'Syncopate', sans-serif;
+}
